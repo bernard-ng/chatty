@@ -1,5 +1,5 @@
 # chatty
-![frontend](https://cdn.dribbble.com/users/25514/videos/24524/messenger_mobile_concept.mp4 "Frontend")
+![frontend](https://github.com/bernard-ng/flutter-travel-app/blob/master/.github/app.png "Frontend")
 
 
 ## Getting Started
