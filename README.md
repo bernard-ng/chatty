@@ -1,6 +1,6 @@
 # chatty
+![frontend](https://cdn.dribbble.com/users/25514/videos/24524/messenger_mobile_concept.mp4 "Frontend")
 
-A new Flutter project.
 
 ## Getting Started
 
