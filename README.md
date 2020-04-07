@@ -1,5 +1,5 @@
 # chatty
-![frontend](https://github.com/bernard-ng/flutter-travel-app/blob/master/.github/app.png "Frontend")
+![frontend](https://github.com/bernard-ng/chatty/blob/master/.github/app.png "Frontend")
 
 
 ## Getting Started
